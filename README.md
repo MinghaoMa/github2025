@@ -1,2 +1,2 @@
 # github2025
-#repo for learning github
+# repo for learning github
